@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Personal Page</title>
+</head>
+<body>
+    <h1>Jondi Rodrigo</h1>
+    <h2>Bachelor of Science in Information Technology</h2>
+    <h3>About Me</h3>
+    <p>I am a student interested in web development and eager to learn new skills in programming and design.</p>
+    <h3>My Hobbies</h3>
+    <p>I enjoy programming, photography, and gaming.</p>
+    <p>Thank you for visiting my page! I hope you get to know me better through this introduction.</p>
+</body>
+</html>
